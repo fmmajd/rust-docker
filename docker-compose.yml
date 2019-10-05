@@ -2,7 +2,7 @@ version: "3"
 
 services:
   rust:
-    container_name: rust_playground
+    # container_name: rust_playground
     build:
       context: .
       dockerfile: .Dockerfile

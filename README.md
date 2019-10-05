@@ -16,3 +16,5 @@ docker-compose exec rust bash
 ```
 
 remember that the container's working directory is /home/rust
+
+***if you want to rename the container, just uncomment the container_name line in docker-compose file***
